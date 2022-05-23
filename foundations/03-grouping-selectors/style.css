@@ -1,0 +1,13 @@
+.invertcolor,
+.both {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+.invertcolor{
+    background-color: black;
+    color: white;
+}
+
+.both {
+    background-color: yellow;
+}
